@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  font-family: "Quicksan";
+  color: rgb(12, 236, 188);
+}
+body{
+  background-color: rgb(245, 246, 250);
+}
+.navbar{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  border-bottom: 1px solid #eee;
+}
+.navbar h1{
+  color: blue;
+  margin: 30px auto;
+}
+.navbar .link{
+  margin-left: auto;
+}
+
+.navbar a{
+  margin-left: 30px;
+  text-decoration: none;
+  padding: 8px;
+}
+button:hover{
+  color: blue;
+  padding: 5px;
+}
+
+.content{
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.navbar a:hover{
+  color: #2f0ad1;
+}
+
+.blog-preview{
+  padding: 29px 16px;
+  margin: 10px 0;
+  border-bottom: 1px 3px 5px solid white;
+  border: #0ad135;
+  border-color: black;
+}
+.blog-preview h1{
+  font-size: 20px;
+  color: rgb(red, rgb(8, 46, 8), blue);
+  margin-bottom: 8p;
+}
+.blog-preview:hover{
+  box-shadow: 3px 3px 5px 1px rgb(14, 6, 6);
+}
+.blog-preview p{
+  font-size: small;
+  border-width: 2px;
+  border: 2px;
+  border-color: #0ad135;
+  color: black;
+  padding: 4px;
+  width: 2px auto;
+  border-style: dotted;
+}
+.blog-preview a{
+text-decoration: none;
+
+}
