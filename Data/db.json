@@ -1,23 +1,193 @@
 {
-    "blogs": [
-        {
-            "title": "The fist Blog",
-            "body": "Why do we use it, its is a long establiashed process",
-            "author": "Faruk",
-            "id": 1
-        },
-        {
-            "title": "Opening party",
-            "body": "Why do we use it, its is a long establiashed process",
-            "author": "Haulat",
-            "id": 2
-        },
-        {
-            "title": "Opening party",
-            "body": "Why do we use it, its is a long establiashed process",
-            "author": "Haulat",
-            "id": 3
-        }
-    ]
-    
+  "blogs": [
+    {
+      "title": "The fist Blog",
+      "body": "f.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
+      "author": "Faruk",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "WhMy name is Haruna Tata a polio survival and I am a junior web developer for Buduwa Global Tech. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Buduwa Global Tech. base in Buduwa ward, Jakusko Local Government area of Yobe state. where I did my primary school in Buduwa and proceed to Government secondary school Jakusko finished both junior and senior school there and obtained Diploma certificate in Computer science from Umar Suleiman College of education Gashua, currently studying my B.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
+      "author": "Haulat",
+      "id": 2
+    },
+    {
+      "title": "Opening party",
+      "body": "My name is Haruna Tata a polio survival and I am a junior web developer for Buduwa Global Tech. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Buduwa Global Tech. base in Buduwa ward, Jakusko Local Government area of Yobe state. where I did my primary school in Buduwa and proceed to Government secondary school Jakusko finished both junior and senior school there and obtained Diploma certificate in Computer science from Umar Suleiman College of education Gashua, currently studying my B.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
+      "author": "Haulat",
+      "id": 3
+    },
+    {
+      "id": "a1c0",
+      "title": "igiirir",
+      "body": "igigi",
+      "author": "John"
+    },
+    {
+      "id": "cbec",
+      "title": "igiirir",
+      "body": "igigi",
+      "author": "John"
+    },
+    {
+      "id": "131d",
+      "title": "ididf",
+      "body": "uuere"
+    },
+    {
+      "id": "60a4",
+      "title": "hehfj",
+      "body": "hsdhedjef"
+    },
+    {
+      "id": "3cbf",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "70ee",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "0cc9",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "5715",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "6ec8",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "765f",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "83b2",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "976e",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "cbd5",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "f5ee",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "2622",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "449f",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "630f",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "3354",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "f0ca",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "e35a",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "1ccf",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "a20f",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "9d38",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "9f31",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "794d",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "00e6",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "44f7",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "310a",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "86c9",
+      "title": "heh",
+      "body": "dff"
+    },
+    {
+      "id": "28e5",
+      "title": "New Blogs",
+      "body": "ofkgooegobooynoy",
+      "author": "Laugi"
+    },
+    {
+      "id": "49cb",
+      "title": "New Blogs",
+      "body": "ofkgooegobooynoy",
+      "author": "Laugi"
+    },
+    {
+      "id": "179c",
+      "title": "Hussaini Zakiru Ali",
+      "body": "bdjdnn xchgbncv ghngn v nungh nghhgnm yhht ",
+      "author": "Sharfudeen"
+    },
+    {
+      "id": "194e",
+      "title": "Musa Got new Appointment",
+      "body": "BNbnxnasdfjkn gbn nxbn sfnjn xcvnm dfjkm,cjkdnm, fjcvnmfjgnm gmgn jn fvjnm jkn mf drfjfnm jk fjkmtrjkd mjk trfjknm trf trdfjknmdf",
+      "author": "Sharfudeen"
+    }
+  ]
 }

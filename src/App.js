@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Routes, Switch, BrowserRouter } from 'r
 import Create from './Create';
 import Input from './input';
 import BlogDetails from './BlogDetails';
+import NotFound from './NotFound';
 
 
 
@@ -33,6 +34,9 @@ function app (){
                 <Route path="/blogs/:id"> 
                   <BlogDetails/>
                 </Route>
+                <Route>
+                  <NotFound/>
+                </Route>
             </Switch>
                 
             </div>
@@ -45,7 +49,7 @@ function app (){
 
   
 export default app;
-// kkk
+
                 
     // <BrowserRouter>
     // <Routes>
