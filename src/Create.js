@@ -14,7 +14,7 @@ const Create = () => {
             const blog = {title, body, author};
             
             setIspending(true);
-            fetch('http://localhost:8000/blogs', {
+            fetch('http://localhost:8000/blogs/', {
                 method: 'POST',
                 headers: {"content-type": "application/json"},
                 body: JSON.stringify(blog)
@@ -42,7 +42,7 @@ const Create = () => {
                 <option value="Sharfudeen">Sharfudeen</option>
                 <option value="Haruna">Haruna</option>
             </select>
-          {!isPending && <button>Add New SBlog</button>}
+          {!isPending && <button>Add Blog</button>}
           {isPending && <button>Disable add blog</button>}
          
             
