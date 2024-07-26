@@ -4,11 +4,10 @@
   color: rgb(12, 236, 188);
 }
 body{
-  background-color: #d64f78;
-  @media screen {max-width: 1500px;
-    
-  }
+  background-color: #532b37;
+  
 }
+
 .navbar{
   padding: 20px;
   display: flex;
