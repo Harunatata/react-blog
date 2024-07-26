@@ -4,7 +4,10 @@
   color: rgb(12, 236, 188);
 }
 body{
-  background-color: rgb(245, 246, 250);
+  background-color: #d64f78;
+  @media screen {max-width: 1500px;
+    
+  }
 }
 .navbar{
   padding: 20px;
@@ -12,7 +15,7 @@ body{
   align-items: center;
   max-width: 500px;
   margin: 0 auto;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #3d0707;
 }
 .navbar h1{
   color: blue;

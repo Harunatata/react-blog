@@ -1,39 +1,10 @@
 {
   "blogs": [
     {
-      "title": "The fist Blog",
-      "body": "f.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
-      "author": "Faruk",
-      "id": "1"
-    },
-    {
       "title": "Opening party",
       "body": "WhMy name is Haruna Tata a polio survival and I am a junior web developer for Buduwa Global Tech. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Buduwa Global Tech. base in Buduwa ward, Jakusko Local Government area of Yobe state. where I did my primary school in Buduwa and proceed to Government secondary school Jakusko finished both junior and senior school there and obtained Diploma certificate in Computer science from Umar Suleiman College of education Gashua, currently studying my B.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
       "author": "Haulat",
       "id": "2"
-    },
-    {
-      "title": "Opening party",
-      "body": "My name is Haruna Tata a polio survival and I am a junior web developer for Buduwa Global Tech. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Buduwa Global Tech. base in Buduwa ward, Jakusko Local Government area of Yobe state. where I did my primary school in Buduwa and proceed to Government secondary school Jakusko finished both junior and senior school there and obtained Diploma certificate in Computer science from Umar Suleiman College of education Gashua, currently studying my B.Tech in Management and information Technology from Abubakar Tafawa Balewa University Bauchi, Bauchi state",
-      "author": "Haulat",
-      "id": "3"
-    },
-    {
-      "id": "a1c0",
-      "title": "igiirir",
-      "body": "igigi",
-      "author": "John"
-    },
-    {
-      "id": "cbec",
-      "title": "igiirir",
-      "body": "igigi",
-      "author": "John"
-    },
-    {
-      "id": "131d",
-      "title": "ididf",
-      "body": "uuere"
     },
     {
       "id": "60a4",
@@ -166,12 +137,6 @@
       "body": "dff"
     },
     {
-      "id": "28e5",
-      "title": "New Blogs",
-      "body": "ofkgooegobooynoy",
-      "author": "Laugi"
-    },
-    {
       "id": "49cb",
       "title": "New Blogs",
       "body": "ofkgooegobooynoy",
@@ -184,20 +149,9 @@
       "author": "Sharfudeen"
     },
     {
-      "id": "974f",
-      "title": "Gere",
-      "body": "nddjjd"
-    },
-    {
       "id": "a567",
       "title": "Adamu Musa",
       "body": "jdjjfj"
-    },
-    {
-      "id": "ba25",
-      "title": "Adam",
-      "body": "ajjsjd",
-      "author": "Haruna"
     }
   ]
 }
